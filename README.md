@@ -12,14 +12,14 @@ This is a full-stack web application that allows users to book a ride by **drawi
 ## 🛠️ Tech Stack
 
 ### Frontend:
-- React.js
-- Tailwind CSS / Bootstrap
+- React.Ts
+- StyledComponent CSS / Bootstrap
 - Mapbox GL JS
 - Axios
 
 ### Backend:
 - ASP.NET Core Web API (.NET 7)
-- Dapper
+- Dapper/EfCore
 - SQL Server (via Docker or Azure Data Studio)
 
 ---
