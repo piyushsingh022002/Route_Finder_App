@@ -1,0 +1,25 @@
+# Build files
+bin/
+obj/
+out/
+
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# ASP.NET
+*.vspscc
+*.vssscc
+
+# Others
+.vscode/
+.DS_Store
+.env
+
+# Rider
+.idea/
+
+# Logs
+*.log
